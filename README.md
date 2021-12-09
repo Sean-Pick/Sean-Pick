@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sean-Pick!
-- 👀 I’m interested in a lot of things but basically I'm here for casual reasons.
+- 👀 I’m interested in a lot of things but basically I'll be here for casual reasons.
 - 🌱 Currently I can potentially learn anything... because I know nothing!
 - 💞️ I’d be happy to update Libretro's thumbnail database if I can figure out how.
